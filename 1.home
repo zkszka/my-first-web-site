@@ -17,19 +17,26 @@
 
 
 <body>
-    <h1><a href="1.home">WEB</a></h1>
+    <h1><a href="home">Brown Eyes</a></h1>
 <ol>
-<li><a href="2.html">HTML</a></li>
-<li><a href="3.html">CSS</a></li>
-<li><a href="4.html">JavaScript</a></li>
+<li><a href="2.html">인기순</a></li>
+<li><a href="3.html">가격내림순</a></li>
+<li><a href="4.html">추천순</a></li>
 </ol>
 
-<h2>인기순</h2>
+<h2>Brown Eyes</h2>
+
+<p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IApBQj7OOQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
 <p><a href="https://www.w3.org/TR/html4/" target="_blank" title="html4">Hypertext Markup Language(HTML)</a>is the standard markup 
 language for <strong>creating <u>web</u> pages</strong> web pages and web applications. </p>
 
+<p><strong>location</strong></p>
+경기도 용인시 기흥구 동백5로 21-7 용인동백지구 동일하이빌 오피스텔
 
-<img src="coding.jpg" width="450">
+<img src="안경모델.jpg" width="450">
 
 <p>
     <div id="disqus_thread"></div>
@@ -51,6 +58,22 @@ language for <strong>creating <u>web</u> pages</strong> web pages and web applic
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</p>
+
+<p>
+    <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/63f4ca904247f20fefe1cee1/1gpq3ehsc';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
 </p>
 </body>
 </html>
